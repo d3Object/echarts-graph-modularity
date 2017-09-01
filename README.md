@@ -2,7 +2,7 @@
 
 <a href="http://echarts.baidu.com">
     <img style="vertical-align: top;" src="https://github.com/ecomfe/echarts/raw/master/asset/logo.png?raw=true" alt="logo" height="50px">
-</a>fgfdgfdgfd
+</a>
 
 Graph modularity extension will do community detection and partian a graph's vertices in several subsets. Each subset will be assigned a different color.
 
